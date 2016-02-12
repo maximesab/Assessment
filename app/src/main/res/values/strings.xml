@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">methis</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">Failed : this username is invalid</string>
+    <string name="error_incorrect_password">Failed: This password is incorrect</string>
+    <string name="login_success">Successfully logged in</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing user
+        completions."
+    </string>
+    <string name="title_carmodel_list">Cars Models</string>
+    <string name="title_carmodel_detail">Car Model Detail</string>
+</resources>
